@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://yashwanth-katragadda.vercel.app/](https://yashwanth-katragadda.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yashwanth-katragadda.vercel.app/](https://katragaddayashwanth.vercel.app/)
 
 - 📫 How to reach me **ky14112004@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash9206091" alt="yash9206091" /></a> </p>
